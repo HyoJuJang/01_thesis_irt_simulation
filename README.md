@@ -15,7 +15,7 @@
  
  !<img width="40%" src="https://user-images.githubusercontent.com/83095823/147867972-f44ee2f8-56f6-4a2f-8b42-e8ce9d3688dd.jpg"/>
  
- ![효주포스터](https://user-images.githubusercontent.com/83095823/147868035-2a00eb11-2eb9-43ec-bff7-9cea6fb994c8.png) 
+!<img width="40%" src="https://user-images.githubusercontent.com/83095823/147868035-2a00eb11-2eb9-43ec-bff7-9cea6fb994c8.png/>
 
 **수 상 :** 한국심리측정평가학회장상 
 
