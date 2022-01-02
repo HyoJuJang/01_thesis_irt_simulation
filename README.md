@@ -13,7 +13,7 @@
  
  **논 문 :** http://www.dcollection.net/handler/sogang/000000066052
  
- ![AF1QipNauMQtn3NDBX3LhG97XD4_ALwV9BDqRg_27bU6=w796-h1133]<img width="80%" src="https://user-images.githubusercontent.com/83095823/147867972-f44ee2f8-56f6-4a2f-8b42-e8ce9d3688dd.jpg"/>
+ !<img width="80%" src="https://user-images.githubusercontent.com/83095823/147867972-f44ee2f8-56f6-4a2f-8b42-e8ce9d3688dd.jpg"/>
  
  ![효주포스터](https://user-images.githubusercontent.com/83095823/147868035-2a00eb11-2eb9-43ec-bff7-9cea6fb994c8.png) 
 
